@@ -1,3 +1,5 @@
+game.StarterGui:SetCore("SendNotification", {Title = "Credits!", Text = "Made By Luxky#4758", Icon = "rbxassetid://12471971016", Duration = 5})
+
 local isTrue = false
 
 local TS = game:GetService("TweenService")
